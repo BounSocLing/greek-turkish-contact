@@ -4,6 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Project Documentation"
+  name = ""
   url = "docs/"
   weight = 10
