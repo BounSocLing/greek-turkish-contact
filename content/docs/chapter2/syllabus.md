@@ -10,6 +10,19 @@ weight: 1
 
 ## Cappadocian-Pharasiot-Siliot
 
+Cappadocian-Pharasiot-Siliot
+
+## Pontic
+
+Pontic
+
+## Aivaliot - Bithynian - Livisian
+
+Aivaliot - Bithynian - Livisian
+
+## Cypriot Greek
+
+Cypriot Greek
 
 ## Goals
 
