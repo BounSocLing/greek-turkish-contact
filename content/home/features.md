@@ -18,7 +18,7 @@ subtitle = "Morphosyntactic Change and its Sociolinguistic Causation"
   icon = "book-open"
   icon_pack = "fas"
   name = "Project Documentation"
-  description = "Click on Documentation to see the details"
+  description = "Click on Project Details to see the details"
   
 [[feature]]
   icon = "question"
