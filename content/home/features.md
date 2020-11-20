@@ -33,10 +33,22 @@ subtitle = "Morphosyntactic Change and its Sociolinguistic Causation"
   description = "Online corpus with geographic interface and UD-based treebank"
 
 [[feature]]
+  icon = ""
+  icon_pack = "fas"
+  name = ""
+  #description = "Follow our updates on the project"
+
+[[feature]]
   icon = "rss"
   icon_pack = "fas"
   name = "[Blog](https://greek-turkish-contact.netlify.app/docs/chapter6/)"
   description = "Follow our updates on the project"
+
+  [[feature]]
+  icon = ""
+  icon_pack = "fas"
+  name = ""
+  #description = "Follow our updates on the project"
 
 # Uncomment to use emoji icons.
 # [[feature]]
