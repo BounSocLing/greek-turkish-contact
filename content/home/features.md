@@ -32,6 +32,12 @@ subtitle = "Morphosyntactic Change and its Sociolinguistic Causation"
   name = "[Deliverables](https://greek-turkish-contact.netlify.app/docs/chapter3/)"
   description = "Online corpus with geographic interface and UD-based treebank"
 
+[[feature]]
+  icon = "rss"
+  icon_pack = "fas"
+  name = "[Blog](https://greek-turkish-contact.netlify.app/docs/chapter6/)"
+  descriptions = "Follow our updates on the project"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
