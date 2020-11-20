@@ -18,19 +18,19 @@ subtitle = "Morphosyntactic Change and its Sociolinguistic Causation"
   icon = "book-open"
   icon_pack = "fas"
   name = "Project Documentation"
-  description = "Click on Project Details to see the details"
+  description = ["Click on Project Details to see the details"](https://www.utkuturk.com)
   
 [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
-  name = "Geodemographic Analysis"
-  #description = ""  
+  name = "Geodemographic Tagset"
+  description = "Geodemographic factors correlated with morphosyntactic change"  
   
 [[feature]]
   icon = "boxes"
   icon_pack = "fas"
   name = "Deliverables"
-  description = "Online Corpus with Geographic interface and UD-based Treebank"
+  description = "Online corpus with geographic interface and UD-based treebank"
 
 # Uncomment to use emoji icons.
 # [[feature]]
