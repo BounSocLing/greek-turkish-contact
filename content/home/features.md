@@ -36,7 +36,7 @@ subtitle = "Morphosyntactic Change and its Sociolinguistic Causation"
   icon = "rss"
   icon_pack = "fas"
   name = "[Blog](https://greek-turkish-contact.netlify.app/docs/chapter6/)"
-  descriptions = "Follow our updates on the project"
+  description = "Follow our updates on the project"
 
 # Uncomment to use emoji icons.
 # [[feature]]
