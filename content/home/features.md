@@ -21,16 +21,16 @@ subtitle = "Morphosyntactic Change and its Sociolinguistic Causation"
   description = "Click on Project Details to see the details"
   
 [[feature]]
-  icon = "question"
+  icon = "globe-europe"
   icon_pack = "fas"
-  name = "Bilgi Merkezi"
-  description = "For teams"  
+  name = "Geodemographic Analysis"
+  #description = ""  
   
 [[feature]]
-  icon = "list-alt"
+  icon = "boxes"
   icon_pack = "fas"
-  name = "Anılarımız :)))"
-  description = "For yourself"
+  name = "Deliverables"
+  description = "Online Corpus with Geographic interface and UD-based Treebank"
 
 # Uncomment to use emoji icons.
 # [[feature]]
