@@ -7,10 +7,10 @@ icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Deliverables
+title: Contact 
 date: "2019-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-Deliverables
+Contact
 
