@@ -23,13 +23,13 @@ subtitle = "Morphosyntactic Change and its Sociolinguistic Causation"
 [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
-  name = "Geodemographic Tagset"
+  name = "[Geodemographic Tagset](https://greek-turkish-contact.netlify.app/docs/chapter3/tagset/)"
   description = "Geodemographic factors correlated with morphosyntactic change"  
   
 [[feature]]
   icon = "boxes"
   icon_pack = "fas"
-  name = "Deliverables"
+  name = "[Deliverables](https://greek-turkish-contact.netlify.app/docs/chapter3/)"
   description = "Online corpus with geographic interface and UD-based treebank"
 
 # Uncomment to use emoji icons.
