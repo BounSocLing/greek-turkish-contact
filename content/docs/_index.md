@@ -1,5 +1,5 @@
 ---
-title: Project Details
+title: Project Documentation
 type: book  # Do not modify.
 ---
 

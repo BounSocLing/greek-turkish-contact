@@ -15,10 +15,10 @@ subtitle = "Morphosyntactic Change and its Sociolinguistic Causation"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[book-open](https://greek-turkish-contact.netlify.app/docs/chapter1/)"
+  icon = "book-open"
   icon_pack = "fas"
   name = "[Project Documentation](https://greek-turkish-contact.netlify.app/docs/chapter1/)"
-  description = "Click on [Project Details](https://greek-turkish-contact.netlify.app/docs/chapter1/) to see the details"
+  description = "Click on Project Documentation to see the details"
   
 [[feature]]
   icon = "globe-europe"
