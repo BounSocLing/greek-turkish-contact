@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "mehmet ali erbil"
-subtitle = "cok yakisikli biridir ✨"
+title = "Greek & Turkish in Contact"
+subtitle = "Morphosyntactic Change and its Sociolinguistic Causation"
 
 # Showcase features.
 # 
@@ -17,8 +17,8 @@ subtitle = "cok yakisikli biridir ✨"
 [[feature]]
   icon = "book-open"
   icon_pack = "fas"
-  name = "Proje Dokümantasyonu"
-  description = "Meraklısına"
+  name = "Project Documentation"
+  description = "Click on Documentation to see the details"
   
 [[feature]]
   icon = "question"
